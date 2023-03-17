@@ -18,3 +18,4 @@ FriendListItem.propTypes = {
         avatar: PropTypes.string.isRequired,
 
 };
+

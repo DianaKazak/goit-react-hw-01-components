@@ -23,7 +23,6 @@ h6,
 p {
   margin: 0;
 }
-
 ul,
 ol {
   margin: 0;
@@ -31,7 +30,6 @@ ol {
   list-style: none;
   font-style: normal;
 }
-
 img {
   display: block;
   max-width: 100%;

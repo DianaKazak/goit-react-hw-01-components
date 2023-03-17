@@ -1,4 +1,4 @@
-.item {
+.item{
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -6,17 +6,17 @@
     height: 80px;
     border: solid;
     border-radius: 15px;
-    border-color: rgb(170, 236, 187);
+    border-color: rgb(234, 236, 170);
 }
 
-.status {
-    width: 20px;
-    height: 20px;
-    border-radius: 50%;
-    background-color: #ae0404;
+.status{
+width: 20px;
+height: 20px;
+border-radius: 50%;
+background-color: #850808;
 
 }
 
-.isOnline {
-    background-color: #076b28;
+.isOnline{
+background-color: #125f2b;
 }

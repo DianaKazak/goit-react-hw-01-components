@@ -26,3 +26,6 @@ Statistics.propTypes = {
     percentage: PropTypes.number.isRequired,
   }))
  };
+  
+
+
